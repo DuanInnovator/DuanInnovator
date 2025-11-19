@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 Deepening my expertise in **distributed systems**, **high-performance services**, and **observability**
-- 💼 Proficient in **Java (Spring Boot)** and **Go (Gin, Echo)** for building robust backend services
+- 💼 Proficient in **Java** and **Go** for building robust backend services
 - 🧠 Passionate about **microservices architecture**, **clean API design**, and **cloud-native development**
 - 📫 Reach me: **[3049643162@qq.com](mailto:3049643162@qq.com)**
 
